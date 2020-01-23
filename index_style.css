@@ -7,6 +7,11 @@ h1 {
 }
 
 h2 {
+<<<<<<< HEAD
 	color: #024700;	
 	font: Arial;
+=======
+	color: #024700;
+	font-family: TimesNewRoman;	
+>>>>>>> branchTime
 }
